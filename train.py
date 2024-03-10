@@ -5,6 +5,7 @@ packages required:
     gym==0.25.2
     pytorch
     pygame
+    pyglet
     ...
 """
 import os
