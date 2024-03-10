@@ -17,3 +17,5 @@
 
 # Training and Testing Results
     见outputs文件夹
+
+![iamge](https://github.com/DaydayXtt/BipedalWalkerHardcore-v2_TD3/blob/master/test.gif)
